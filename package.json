@@ -11,6 +11,5 @@
   "dependencies": {
     "commander": "2.9.0",
     "request": "2.79.0"
-  },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/@Omar97perez" }
+  }
 }
