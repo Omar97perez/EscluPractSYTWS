@@ -1,5 +1,5 @@
 {
-  "name": "Prueba-esclu-github-package",
+  "name": "prueba-esclu-github-package",
   "version": "1.0.0",
   "description": "Elasticsearch Command Line Utilities",
   "main": "index.js",
